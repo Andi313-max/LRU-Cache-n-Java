@@ -4,7 +4,7 @@ Implementim i politikës Least Recently Used me get dhe put në O(1).
 Projekt grupor, Algoritme të Avancuara dhe Struktura të Dhënash.
 
 ## Anëtarët
-- Soriraq Xhaxha
+- Sotiraq Xhaxha
 - Andi Ruci
 
 ## Arkitektura
